@@ -1,7 +1,7 @@
 # Dataset-Daun-Pandan-dan-Jambu-Biji_432_413
 Collect Dataset Herbal Leaves
 
-## Desciption
+## Description
 - Daun Pandan wangi (atau biasa disebut pandan saja) adalah jenis tumbuhan monokotil dari famili Pandanaceae yang memiliki daun beraroma wangi yang khas. Daunnya merupakan komponen penting dalam tradisi masakan Indonesia dan negara-negara Asia Tenggara lainnya.
 - Daun jambu biji (Psidium guajava L) mengandung berbagai senyawa metabolit sekunder antara lain tanin, minyak atsiri, flavonoid, dan saponin. Senyawa-senyawa tersebut berpotensi sebagai antioksidan dan bahan pengawet alami.
 
